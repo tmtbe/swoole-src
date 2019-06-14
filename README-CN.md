@@ -492,6 +492,7 @@ make && sudo make install
 
 - [**Swoft**](https://github.com/swoft-cloud) 是一个现代化的面向切面的高性能协程全栈组件化框架
 - [**Easyswoole**](https://www.easyswoole.com) 是一个极简的高性能的框架, 让代码开发就好像写`echo "hello world"`一样简单
+- [**ESD**](https://github.com/esd-projects/esd-server) 是一个革命性的高性能协程全栈框架，拥有最丰富的插件，超乎想象的功能。
 - [**Saber**](https://github.com/swlib/saber) 是一个人性化的高性能HTTP客户端组件，几乎拥有一切你可以想象的强大功能
 
 ## 🛠 开发 & 讨论
